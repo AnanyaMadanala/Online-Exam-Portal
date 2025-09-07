@@ -1,5 +1,12 @@
-# Online Exam Portal
+## ✨ Features  
 
-Servlet and JSP Project developed and run using Tomcat Server and Java EE 7 Version.
+- **Student Panel** – Register, login, attempt exams, and view results.  
+- **Admin Panel** – Manage exams, questions, and students.  
+- **Reports** – Auto evaluation with scores & grades.  
 
-> Note: Database structure has been added to the repo. This is the only copy of dump I had in my mail, might break. Feel free to open a PR with the update.
+## 🛠️ Tech Stack  
+
+- **Frontend:** HTML, CSS, JSP  
+- **Backend:** Java (Servlets, JDBC)  
+- **Database:** MySQL  
+- **Server:** Apache Tomcat  
